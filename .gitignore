@@ -292,9 +292,9 @@ env.zip
 # VScode settings and launch config
 settings.json
 
-# migration files
-**/migrations/*
-!**/migrations
-!**/migrations/__init__.py
+# # migration files
+# **/migrations/*
+# !**/migrations
+# !**/migrations/__init__.py
 
-/pincharge*
+# /pincharge*
